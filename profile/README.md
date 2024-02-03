@@ -22,16 +22,13 @@ Unregelmässige Veröffentlichung im gleichen Turnus wie das Mechanicsbuch. Aktu
 
 ## Easyrules
 
+Jährliche Veröffentlichung als digitales PDF.
+
+<img src="https://www.latex-project.org/favicon.ico" style="height:24px;" > Gebaut mit LaTeX.
+
 ## AFSVD-Website
 
-## Genutzte Technologien
-
-Wir nutzen u.a.
-
--   LaTeX
--   Ghost CMS
--   Docusaurus
--   MK Docs
+<img src="https://ghost.org/images/logos/ghost-logo-orb.png" style="height:24px;" > Gebaut mit ghost CMS.
 
 ## Fehler gefunden?
 
