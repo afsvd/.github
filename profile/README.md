@@ -2,11 +2,27 @@
 
 Hier werden alle digitalen Produkte der AFSVD verwaltet.
 
--   Regelbuch
--   Mechanicsbuch
--   Mechanics-Website
--   Easyrules
--   AFSVD-Website
+## Regelbuch
+
+Jährliche Veröffentlichung als digitales PDF mit Verlinkungen; Druckversion auf Anfrage erhältlich.
+
+<img src="https://www.latex-project.org/favicon.ico" style="height:24px;" > Gebaut mit LaTeX.
+
+## Mechanicsbuch
+
+Unregelmässige Veröffentlichung als digitales PDF mit Verlinkungen; keine Druckversion.
+
+<img src="https://www.latex-project.org/favicon.ico" style="height:24px;" > Gebaut mit LaTeX.
+
+## Mechanics-Website
+
+Unregelmässige Veröffentlichung im gleichen Turnus wie das Mechanicsbuch. Aktuell nur als 8er-Version.
+
+<img src="https://docusaurus.io/img/docusaurus.svg" style="height:24px; margin-right:6px;" >Gebaut mit [Docusaurus](https://docusaurus.io/).
+
+## Easyrules
+
+## AFSVD-Website
 
 ## Genutzte Technologien
 
