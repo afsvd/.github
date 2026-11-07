@@ -10,7 +10,7 @@ Jährliche Veröffentlichung als digitales PDF mit Verlinkungen; Druckversion au
 
 ### Fehler gefunden?
 
-<a href="mailto:regelbuch-errata@regelkun.de?subject=Mechanicsbuch&amp;body=Hallo%20liebes%20Team%2C%0A%0Aich%20habe%20einen%20Fehler%20gefunden%20oder%20eine%20Anmerkung.%0A%0AVersion%20des%20Buchs%3A%0ASeite%3A%0AFehler%2FAnmerkung%3A%0A">E-Mail an Regelbuch-Errata schreiben.</a>
+<a href="mailto:regelbuch-errata@afsvd.de?subject=Mechanicsbuch&amp;body=Hallo%20liebes%20Team%2C%0A%0Aich%20habe%20einen%20Fehler%20gefunden%20oder%20eine%20Anmerkung.%0A%0AVersion%20des%20Buchs%3A%0ASeite%3A%0AFehler%2FAnmerkung%3A%0A">E-Mail an Regelbuch-Errata schreiben.</a>
 
 ## Mechanicsbuch
 
@@ -20,7 +20,7 @@ Unregelmässige Veröffentlichung als digitales PDF mit Verlinkungen; keine Druc
 
 ### Fehler gefunden?
 
-<a href="mailto:mechanics-errata@regelkun.de?subject=Mechanicsbuch&amp;body=Hallo%20liebes%20Team%2C%0A%0Aich%20habe%20einen%20Fehler%20gefunden%20oder%20eine%20Anmerkung.%0A%0AVersion%20des%20Buchs%3A%0ASeite%3A%0AFehler%2FAnmerkung%3A%0A">E-Mail an Mechanics-Errata schreiben.</a>
+<a href="mailto:mechanics-errata@afsvd?subject=Mechanicsbuch&amp;body=Hallo%20liebes%20Team%2C%0A%0Aich%20habe%20einen%20Fehler%20gefunden%20oder%20eine%20Anmerkung.%0A%0AVersion%20des%20Buchs%3A%0ASeite%3A%0AFehler%2FAnmerkung%3A%0A">E-Mail an Mechanics-Errata schreiben.</a>
 
 ## Mechanics-Website
 
@@ -29,7 +29,7 @@ Unregelmässige Veröffentlichung im gleichen Turnus wie das Mechanicsbuch. Aktu
 <img src="https://docusaurus.io/img/docusaurus.svg" style="height:24px;">&ensp;Gebaut mit [Docusaurus](https://docusaurus.io/).
 ### Fehler gefunden?
 
-<a href="mailto:mechanics-errata@regelkun.de?subject=Mechanicsbuch&amp;body=Hallo%20liebes%20Team%2C%0A%0Aich%20habe%20einen%20Fehler%20gefunden%20oder%20eine%20Anmerkung.%0A%0AVersion%20des%20Buchs%3A%0ASeite%3A%0AFehler%2FAnmerkung%3A%0A">E-Mail an Mechanics-Errata schreiben.</a>
+<a href="mailto:mechanics-errata@afsvd.de?subject=Mechanicsbuch&amp;body=Hallo%20liebes%20Team%2C%0A%0Aich%20habe%20einen%20Fehler%20gefunden%20oder%20eine%20Anmerkung.%0A%0AVersion%20des%20Buchs%3A%0ASeite%3A%0AFehler%2FAnmerkung%3A%0A">E-Mail an Mechanics-Errata schreiben.</a>
 
 ## Easyrules
 
